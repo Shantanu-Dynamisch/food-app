@@ -379,7 +379,7 @@ const card1 = styled.Text``;
 
 const styles = StyleSheet.create({
   body: {
-    backgroundColor: '#ffff',
+    backgroundColor: '#fff',
     // paddingTop: 80,
   },
   headingText: {
